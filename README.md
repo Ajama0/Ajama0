@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java, Spring Boot,javascript,python, database,RestFul Api's,Git,html, css**
+- 💬 Ask me about **Java, Spring Boot,Spring security, javascript,python, databases,RestFul-Api's,Docker,Git,html, css**
 
 - 📫 How to reach me **abasjama04@hotmail.com**
 
