@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajama0&label=Profile%20views&color=0e75b6&style=flat" alt="ajama0" /> </p>
 
-- 🔭 I’m currently working on **--**
+- 🔭 I’m currently working on a startup idea of mine called  **Instructify**
 
 - 🌱 I’m currently learning **React**
 
