@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajama0&label=Profile%20views&color=0e75b6&style=flat" alt="ajama0" /> </p>
 
-- 🔭 I’m currently working on a startup idea of mine called  **Instructify**
+- 🔭 I’m currently working on a startup idea of mine called  **coming-soon!**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Angular**
 
-- 💬 Ask me about **Java, Spring Boot, JavaScript, Python, PostgreSQL, RESTful APIs, Docker, Kubernetes, Git, HTML, CSS**
+- 💬 Ask me about **Java, Spring Boot, Angular, pytorch, Typescript, PostgreSQL, RESTful APIs, Docker,Git, Postman**
 
 - 📫 How to reach me **abasjama04@hotmail.com**
 
