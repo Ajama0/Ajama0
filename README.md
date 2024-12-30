@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajama0&label=Profile%20views&color=0e75b6&style=flat" alt="ajama0" /> </p>
 
-- 🔭 I’m currently working on a startup idea of mine called  **coming-soon!**
+- 🌱 Full stack developer passionate about building scalable and innovative applications**
 
-- 🌱 I’m currently learning **Angular**
+- 🔭 Currently exploring Machine learning with Pytorch and developing Deep Learning Models
 
 - 💬 Ask me about **Java, Spring Boot, Angular, pytorch, Typescript, PostgreSQL, RESTful APIs, Docker,Git, Postman**
 
