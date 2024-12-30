@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajama0&label=Profile%20views&color=0e75b6&style=flat" alt="ajama0" /> </p>
 
-- 🌱 Full stack developer passionate about building scalable and innovative applications**
+- 🌱 Full stack developer passionate about building scalable and innovative applications
 
 - 🔭 Currently exploring Machine learning with Pytorch and developing Deep Learning Models
 
