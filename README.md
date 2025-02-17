@@ -9,7 +9,7 @@
 
 - 🔭 Currently exploring Machine learning with Pytorch and developing Deep Learning Models
 
-- 💬Ask me about **Java, Spring Boot, Angular, pytorch, Typescript, PostgreSQL, RESTful APIs, Docker,Git,Junit & Postman**
+- 💬Ask me about **Java, Spring Boot, Angular, python, Typescript, pytorch, PostgreSQL, RESTful APIs, Docker,Git,Junit & Postman**
 
 - 📫 How to reach me **abasjama04@hotmail.com**
 
