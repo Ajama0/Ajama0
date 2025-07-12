@@ -9,6 +9,8 @@
 
 - 🔭 Currently exploring Machine learning with Pytorch and developing Deep Learning Models
 
+- Check our My medium where i produce tutorials and step by step guides.  https://medium.com/@abasjama04
+
 
 - 📫 How to reach me **abasjama04@hotmail.com**
 
